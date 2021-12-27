@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+.top-wrapper{
+    position:absolute;
+    float:left;
+    background-color:aqua;
+    height: 100px;
+    width:100%;
+}
+.right-wrapper{
+    position:absolute;
+    right:0;
+    background-color:blue;
+    height:100%;
+    width: 20%;
+}
+.mid-content-wrapper{
+    display:flex;
+    flex-direction:row;
+    
+}
